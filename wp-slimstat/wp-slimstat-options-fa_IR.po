@@ -1,0 +1,657 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: WP SlimStat-Options\n"
+"Language: fa\n"
+
+#: index.php:10 ../options/index.php:10
+msgid "General"
+msgstr "عمومی"
+
+#: index.php:11 ../options/index.php:11
+msgid "Views"
+msgstr "مشاهده ها"
+
+#: index.php:12 ../options/index.php:12
+msgid "Filters"
+msgstr "فیلترها"
+
+#: index.php:13 ../options/index.php:13
+msgid "Permissions"
+msgstr "مجوزها"
+
+#: index.php:14 ../options/index.php:14
+msgid "Advanced"
+msgstr "پیش‌رفته"
+
+#: index.php:15 ../options/index.php:15
+msgid "Maintenance"
+msgstr "نگهداری"
+
+#: index.php:16 ../options/index.php:16
+msgid "Support"
+msgstr "حمایت"
+
+#: index.php:26 ../options/index.php:26
+msgid "Your settings have been successfully updated."
+msgstr "تنظیمات شما با موفقیت به روز شد."
+
+#: index.php:29 ../options/index.php:29
+msgid "There was an error updating the following fields:"
+msgstr "خطایی در به‌روزرسانی این موارد رخ داد:"
+
+#: panel1.php:8 ../options/panel1.php:8
+msgid "Activate tracking"
+msgstr "فعال‌سازی ره‌گیری"
+
+#: panel1.php:9 panel1.php:39 ../options/panel1.php:9 ../options/panel1.php:39
+msgid "Javascript Mode"
+msgstr "جاوا اسکریپت"
+
+#: panel1.php:10 panel1.php:47 ../options/panel1.php:10
+#: ../options/panel1.php:47
+msgid "Custom path"
+msgstr "مسیر دل‌خواه"
+
+#: panel1.php:11 ../options/panel1.php:11
+msgid "Auto purge"
+msgstr "پاک‌سازی خودکار"
+
+#: panel1.php:12 panel1.php:62 ../options/panel1.php:12
+#: ../options/panel1.php:62
+msgid "Add Column to Posts"
+msgstr "یک ستون به نوشته‌ها اضافه کن"
+
+#: panel1.php:13 panel1.php:70 ../options/panel1.php:13
+#: ../options/panel1.php:70
+msgid "Use standalone menu"
+msgstr "استفاده از منوی مستقل"
+
+#: panel1.php:31 ../options/panel1.php:31
+msgid "Enable tracking"
+msgstr "فعال‌سازی ره‌گیری"
+
+#: panel1.php:33 panel1.php:41 panel1.php:64 panel1.php:72 panel2.php:25
+#: panel2.php:69 panel3.php:61 panel3.php:69 panel3.php:77 panel3.php:85
+#: panel5.php:32 panel5.php:40 panel5.php:55 panel5.php:63 panel6.php:9
+#: ../options/panel1.php:33 ../options/panel1.php:41 ../options/panel1.php:64
+#: ../options/panel1.php:72 ../options/panel2.php:25 ../options/panel2.php:69
+#: ../options/panel3.php:61 ../options/panel3.php:69 ../options/panel3.php:77
+#: ../options/panel3.php:85 ../options/panel5.php:32 ../options/panel5.php:40
+#: ../options/panel5.php:55 ../options/panel5.php:63 ../options/panel6.php:9
+msgid "Yes"
+msgstr "بلی"
+
+#: panel1.php:34 panel1.php:42 panel1.php:65 panel1.php:73 panel2.php:26
+#: panel2.php:70 panel3.php:62 panel3.php:70 panel3.php:78 panel3.php:86
+#: panel5.php:33 panel5.php:41 panel5.php:56 panel5.php:64 panel6.php:9
+#: ../options/panel1.php:34 ../options/panel1.php:42 ../options/panel1.php:65
+#: ../options/panel1.php:73 ../options/panel2.php:26 ../options/panel2.php:70
+#: ../options/panel3.php:62 ../options/panel3.php:70 ../options/panel3.php:78
+#: ../options/panel3.php:86 ../options/panel5.php:33 ../options/panel5.php:41
+#: ../options/panel5.php:56 ../options/panel5.php:64 ../options/panel6.php:9
+msgid "No"
+msgstr "خیر"
+
+#: panel1.php:35 ../options/panel1.php:35
+msgid "You may want to prevent WP SlimStat from tracking users, but still be able to access your stats."
+msgstr "ممکن است بخواهید از ره‌گیری کاربران توست WP SlimStat جلوگیری کنید، اما همچنان قادر به دست‌رسی به آمار باشید."
+
+#: panel1.php:43 ../options/panel1.php:43
+msgid "Turn this feature on if you are using a caching plugin (W3 Total Cache and friends). WP SlimStat will behave pretty much like Google Analytics, and visitors whose browser does not support Javascript will be ignored. A nice side effect is that <strong>most</strong> spammers, search engines and other crawlers will not be tracked."
+msgstr ""
+
+#: panel1.php:50 ../options/panel1.php:50
+msgid "If you moved <code>wp-slimstat-js.php</code> out of its default folder, specify the new path here. Default:"
+msgstr "اگر شما فایل <code>wp-slimstat-js.php</code> را از محل پیش‌فرض خود جابجا کرده‌اید، نشانی‌اش را این‌جا وارد کنید. پیش‌فرض:"
+
+#: panel1.php:54 ../options/panel1.php:54
+msgid "Autopurge"
+msgstr "حذف خودکار"
+
+#: panel1.php:56 ../options/panel1.php:56
+msgid "days"
+msgstr "روزها"
+
+#: panel1.php:57 ../options/panel1.php:57
+msgid "Next clean-up on"
+msgstr "تمیزکاری بعدی در"
+
+#: panel1.php:57 ../options/panel1.php:57
+msgid "Entries recorded on or before %s will be permanently deleted."
+msgstr "ردیف‌های مربوط به روز %s و قبل از آن حذف خواهند شد."
+
+#: panel1.php:58 ../options/panel1.php:58
+msgid "Automatically deletes pageviews older than <strong>X</strong> days (uses Wordpress cron jobs). Zero disables this feature."
+msgstr "به صورت خودکار مشاهده صفحات قبل از <strong>X</strong> روز را حذف می‌کند(با استفاده از cron وردپرس). «صفر» این قابلیت را از کار می‌اندازد."
+
+#: panel1.php:66 ../options/panel1.php:66
+msgid "Adds a new column to the Edit Posts screen, with the number of hits per post (may slow down page rendering)"
+msgstr "یک ستون جدید به صفحه «ویرایش مطالب» اضافه می‌کند، که شامل تعداد مشاهده آن مطلب است (ممکن است کمی آن صفحه را کند کند)"
+
+#: panel1.php:74 ../options/panel1.php:74
+msgid "Lets you decide if you want to have a standalone admin menu for WP SlimStat or not."
+msgstr "به شما امکان داشتن یک منوی مستقل برای مدیریت WP SlimStat را می‌دهد"
+
+#: panel1.php:79 panel2.php:81 panel3.php:120 panel4.php:63 panel5.php:70
+#: ../options/panel1.php:79 ../options/panel2.php:81 ../options/panel3.php:120
+#: ../options/panel4.php:63 ../options/panel5.php:70
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: panel2.php:8 panel2.php:23 ../options/panel2.php:8 ../options/panel2.php:23
+msgid "Convert IP addresses"
+msgstr "تبدیل نشانی آی‌پی"
+
+#: panel2.php:9 panel2.php:31 ../options/panel2.php:9 ../options/panel2.php:31
+msgid "Number format"
+msgstr "قالب اعداد"
+
+#: panel2.php:10 panel2.php:39 ../options/panel2.php:10
+#: ../options/panel2.php:39
+msgid "Limit results to"
+msgstr "نتایج محدود به"
+
+#: panel2.php:11 panel2.php:46 ../options/panel2.php:11
+#: ../options/panel2.php:46
+msgid "Right now"
+msgstr "همین الآن"
+
+#: panel2.php:12 panel2.php:53 ../options/panel2.php:12
+#: ../options/panel2.php:53
+msgid "IP Lookup"
+msgstr "ره‌گیری بر اساس نشانی آی‌پی"
+
+#: panel2.php:13 panel2.php:60 ../options/panel2.php:13
+#: ../options/panel2.php:60
+msgid "Refresh every"
+msgstr "به‌روزآوری هر"
+
+#: panel2.php:14 panel2.php:76 ../options/panel2.php:14
+#: ../options/panel2.php:76
+msgid "Chart Annotations"
+msgstr "حاشیه نمودار"
+
+#: panel2.php:15 panel2.php:67 ../options/panel2.php:15
+#: ../options/panel2.php:67
+msgid "Hide Stats Link"
+msgstr "پنهان کردن پیوند آمار"
+
+#: panel2.php:27 ../options/panel2.php:27
+msgid "View hostnames instead of IP addresses. It slows down the rendering of your metrics."
+msgstr "مشاهده نام میزبان به جای نشانی آی‌پی. این کار نمایش گزارش را کمی کند می‌کند."
+
+#: panel2.php:35 ../options/panel2.php:35
+msgid "Choose what number format you want to use, European or American."
+msgstr "نوع نمایش اعداد را انتخاب کنید."
+
+#: panel2.php:41 panel2.php:48 ../options/panel2.php:41
+#: ../options/panel2.php:48
+msgid "rows"
+msgstr "ردیف‌ها"
+
+#: panel2.php:42 ../options/panel2.php:42
+msgid "Specify the number of results to return for each module. Please use a <strong>positive</strong> value."
+msgstr "تعداد نتایجی که برای هر بخش می‌خواهید نشان داده شوند را انتخاب کنید. لطفا یک عدد <strong>مثبت</strong> باشد."
+
+#: panel2.php:49 ../options/panel2.php:49
+msgid "Specify the number of rows per page to show in the Right Now screen. Please use a <strong>positive</strong> value."
+msgstr "تعداد ردیف‌های هر صفحه که در «همین الآن» نمایش داده می‌شوند را انتخاب کنید. لطفا عددی<strong>مثبت</strong> باشد."
+
+#: panel2.php:56 ../options/panel2.php:56
+msgid "Customize the IP lookup service URL."
+msgstr "نشانی خادم دل‌خواه برای مکان‌یابی بر اساس نشانی آی‌پی را وارد کنید."
+
+#: panel2.php:62 panel5.php:48 ../options/panel2.php:62
+#: ../options/panel5.php:48
+msgid "seconds"
+msgstr "ثانیه"
+
+#: panel2.php:63 ../options/panel2.php:63
+msgid "Refresh the Right Now screen every X seconds. Zero disables this feature."
+msgstr "صفحه‌ی «همین الآن» را هر X ثانیه به‌روزآوری کن. صفر، این قابلیت را از کار می‌اندازد."
+
+#: panel2.php:71 ../options/panel2.php:71
+msgid "Enable this option if your users are confused by the Stats link associate to each post in the Edit Posts page."
+msgstr ""
+
+#: panel2.php:77 ../options/panel2.php:77
+msgid "Add <em>markings</em> to each chart by specifying a date and its description in the field below. Useful to keep track of special events and correlate them to your analytics. Please use the following format:<code>YYYY MM DD HH:mm=Description 1,YYYY MM DD HH:mm=Description 2</code>. For example: 2012 12 31 23:55=New Year's Eve."
+msgstr ""
+
+#: panel3.php:8 ../options/panel3.php:8
+msgid "Track users"
+msgstr "ره‌گیری کاربران"
+
+#: panel3.php:9 panel3.php:67 ../options/panel3.php:9 ../options/panel3.php:67
+msgid "Ignore Spammers"
+msgstr "نادیده گرفتن هرزها"
+
+#: panel3.php:10 panel3.php:75 ../options/panel3.php:10
+#: ../options/panel3.php:75
+msgid "Anonymize IP Addresses"
+msgstr "غیرقابل تشخیص کردن آی‌پی‌ها"
+
+#: panel3.php:11 panel3.php:83 ../options/panel3.php:11
+#: ../options/panel3.php:83
+msgid "Ignore Prefetch"
+msgstr "نادیده گرفتن پیش‌دریافت"
+
+#: panel3.php:12 ../options/panel3.php:12
+msgid "Ignore IPs"
+msgstr "نشانی‌های آی‌پی را نادیده بگیر"
+
+#: panel3.php:13 ../options/panel3.php:13
+msgid "Ignore Countries"
+msgstr "کشورها را نادیده بگیر"
+
+#: panel3.php:14 ../options/panel3.php:14
+msgid "Ignore resources"
+msgstr "نادیده گرفتن منابع"
+
+#: panel3.php:15 ../options/panel3.php:15
+msgid "Ignore referers"
+msgstr "نادیده گرفتن ارجاع‌دهنده‌ها"
+
+#: panel3.php:16 ../options/panel3.php:16
+msgid "Ignore browsers"
+msgstr "نادیده گرفتن مرورگرها"
+
+#: panel3.php:22 ../options/panel3.php:22
+msgid "Ignore users"
+msgstr "کاربران را نادیده بگیر"
+
+#: panel3.php:25 ../options/panel3.php:25
+msgid "Ignore users: username not found"
+msgstr "نادیده گرفتن کاربر: شناسه کاربر یافت نشد"
+
+#: panel3.php:44 ../options/panel3.php:44
+msgid "Users by capability"
+msgstr "کاربران با قابلیت‌ها"
+
+#: panel3.php:47 ../options/panel3.php:47
+msgid "Invalid capability. Please check <a href=\"http://codex.wordpress.org/Roles_and_Capabilities\" target=\"_new\">this page</a> for more information"
+msgstr ""
+
+#: panel3.php:59 ../options/panel3.php:59
+msgid "Track Users"
+msgstr "ره‌گیری کاربران"
+
+#: panel3.php:63 ../options/panel3.php:63
+msgid "Select YES if you want to track logged in users, adding their login to the resource they requested"
+msgstr "اگر می‌خواهید کاربران عضو پایگاه، ره‌گیری شوند «بلی» را انتخاب کنید، تا ورودشان به پایگاه جزو درخواست‌های آن‌ها حساب شود."
+
+#: panel3.php:71 ../options/panel3.php:71
+msgid "Select YES if you don't want to track visits from users identified as spammers by a third-party tool (i.e. Akismet). Visits from people whose comments are later marked as spam by you, will also be removed from the database."
+msgstr ""
+
+#: panel3.php:79 ../options/panel3.php:79
+msgid "This option masks the last octet of your visitors' IP addresses to comply with European Privacy Laws"
+msgstr "این گزینه بخش انتهایی نشانی آی‌پی را برای هم‌خوانی با قوانین حریم خصوصی اروپا نادیده می‌گیرد"
+
+#: panel3.php:87 ../options/panel3.php:87
+msgid "Select YES if you don't want to track visits generated by Firefox's <a href='https://developer.mozilla.org/en/Link_prefetching_FAQ' target='_blank'>Link Prefetching functionality</a>"
+msgstr ""
+
+#: panel3.php:92 ../options/panel3.php:92
+msgid "IP Addresses"
+msgstr "نشانی‌های آی‌پی"
+
+#: panel3.php:93 ../options/panel3.php:93
+msgid "List all the IP addresses you don't want to track, separated by commas. Each network <strong>must</strong> be defined using the <a href='http://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing' target='_blank'>CIDR notation</a> (i.e. <em>192.168.0.0/24</em>). If the format is incorrect, WP SlimStat may not track pageviews properly."
+msgstr ""
+
+#: panel3.php:96 ../options/panel3.php:96
+msgid "Pages and posts"
+msgstr "صفحات و نوشته‌ها"
+
+#: panel3.php:97 ../options/panel3.php:97
+msgid "List all the URLs you don't want to track, separated by commas. Don't include the domain name: <em>/about, ?p=1</em>, etc. Wildcards: <code>*</code> means 'any string, including the empty string', <code>!</code> means 'any character'. For example, <code>/abou*</code> will match /about and /abound, <code>/abo*t</code> will match /aboundant and /about, <code>/abo!t</code> will match /about and /abort. Strings are case-insensitive."
+msgstr ""
+
+#: panel3.php:100 ../options/panel3.php:100
+msgid "Countries"
+msgstr "کشورها"
+
+#: panel3.php:101 ../options/panel3.php:101
+msgid "List all the Country codes (i.e.: <code>en-us, it, es</code>) you don't want to track, separated by commas."
+msgstr "سیاهه کد همه کشورهایی که نمی‌خواهید ره‌گیری شوند. (مثلا <code>en-us, il, es</code>) "
+
+#: panel3.php:104 ../options/panel3.php:104
+msgid "User Agents"
+msgstr "مرورگرهای کاربران"
+
+#: panel3.php:105 ../options/panel3.php:105
+msgid "Enter a list of browsers (user agents) you don't want to track, separated by commas. You can specify the browser's version adding a slash after the name  (i.e. <em>Firefox/3.6</em>). Wildcards: <code>*</code> means 'any string, including the empty string', <code>!</code> means 'any character'. For example, <code>Chr*</code> will match Chrome and Chromium, <code>IE/!.0</code> will match IE/7.0 and IE/8.0. Strings are case-insensitive."
+msgstr ""
+
+#: panel3.php:108 ../options/panel3.php:108
+msgid "Referers"
+msgstr "ارجاع‌دهنده‌ها"
+
+#: panel3.php:109 ../options/panel3.php:109
+msgid "Enter a list of referring URL's you don't want to track, separated by commas: <code>mysite.com, /ignore-me-please</code>, etc. Wildcards: <code>*</code> means 'any string, including the empty string', <code>!</code> means 'any character'. Strings are case-insensitive."
+msgstr ""
+
+#: panel3.php:112 ../options/panel3.php:112
+msgid "Users"
+msgstr "کاربران"
+
+#: panel3.php:113 ../options/panel3.php:113
+msgid "Enter a list of Wordpress users you don't want to track, separated by commas. Please be aware that spaces are <em>not</em> ignored and that usernames are case-insensitive."
+msgstr ""
+
+#: panel3.php:116 ../options/panel3.php:116
+msgid "Users by Capability"
+msgstr "کاربران بر اساس قابلیت"
+
+#: panel3.php:117 ../options/panel3.php:117
+msgid "Users having at least one of the <a href='http://codex.wordpress.org/Roles_and_Capabilities' target='_new'>capabilities</a> listed here below will not be tracked. Capabilities are case-insensitive."
+msgstr ""
+
+#: panel4.php:13 panel4.php:52 ../options/panel4.php:13
+#: ../options/panel4.php:52
+msgid "Read access"
+msgstr "دست‌رسی خواندن"
+
+#: panel4.php:16 ../options/panel4.php:16
+msgid "Read access: username not found"
+msgstr "دست‌رسی خواندن: شناسه کاربری یافت نشد"
+
+#: panel4.php:25 panel4.php:56 ../options/panel4.php:25
+#: ../options/panel4.php:56
+msgid "Minimum capability"
+msgstr "حداقل قابلیت"
+
+#: panel4.php:28 ../options/panel4.php:28
+msgid "Invalid minimum capability. Please check <a href=\"http://codex.wordpress.org/Roles_and_Capabilities\" target=\"_new\">this page</a> for more information"
+msgstr ""
+
+#: panel4.php:40 panel4.php:60 ../options/panel4.php:40
+#: ../options/panel4.php:60
+msgid "Config access"
+msgstr "دست‌رسی پیکربندی"
+
+#: panel4.php:43 ../options/panel4.php:43
+msgid "Config access: username not found"
+msgstr "دست‌رسی پیکربندی: شناسه کاربری یافت نشد"
+
+#: panel4.php:53 ../options/panel4.php:53
+msgid "List all the users who can view WP SlimStat reports, separated by commas. Admins are implicitly allowed, so you don't need to list them in here. If this field is empty, <strong>all your users</strong> are granted access. Usernames are case-insensitive."
+msgstr ""
+
+#: panel4.php:57 ../options/panel4.php:57
+msgid "Define the minimum <a href='http://codex.wordpress.org/Roles_and_Capabilities' target='_new'>capability</a> needed to view the reports (default: <code>read</code>). If this field is empty, <strong>all your users</strong> (including subscribers) will have access to the reports, unless a 'Read access' whitelist has been specified here above. In this case, the list has precedence over the capability."
+msgstr ""
+
+#: panel4.php:61 ../options/panel4.php:61
+msgid "List all the users who can edit these options, separated by commas. Please be advised that admins <strong>are not</strong> implicitly allowed, so do not forget to include yourself! If this field is empty, <strong>all your users</strong> (except <em>Subscribers</em>) will be granted access. Users listed here automatically inherit 'Read access' to the reports. Usernames are case-insensitive."
+msgstr ""
+
+#: panel5.php:8 panel5.php:30 ../options/panel5.php:8 ../options/panel5.php:30
+msgid "Track Browser Capabilities"
+msgstr "ره‌گیری قابلیت‌های مرورگر"
+
+#: panel5.php:9 panel5.php:38 ../options/panel5.php:9 ../options/panel5.php:38
+msgid "Track Outbound Clicks"
+msgstr "ره‌گیری کلیک‌های بیرونی"
+
+#: panel5.php:10 panel5.php:46 ../options/panel5.php:10
+#: ../options/panel5.php:46
+msgid "Session Duration"
+msgstr "دوره زمانی نشست (session)"
+
+#: panel5.php:11 panel5.php:53 ../options/panel5.php:11
+#: ../options/panel5.php:53
+msgid "Extend Session"
+msgstr "گسترش نشست"
+
+#: panel5.php:12 panel5.php:61 ../options/panel5.php:12
+#: ../options/panel5.php:61
+msgid "Enable CDN"
+msgstr "فعال‌سازی CDN"
+
+#: panel5.php:34 ../options/panel5.php:34
+msgid "Enables a client-side tracking code to collect data about screen resolutions, outbound links, downloads and other relevant information. If Javascript Mode is enabled, browers capabilities will be tracked regardless of which value you set for this option."
+msgstr ""
+
+#: panel5.php:42 ../options/panel5.php:42
+msgid "Adds a javascript event handler to each external link on your site, to track when visitors click on them. If Browser Capabilities is disabled, outbound clicks <strong>will not</strong> be tracked regardless of which value you set for this option."
+msgstr "می افزاید: کنترل رویداد جاوا اسکریپت به یک لینک خارجی در سایت خود، به پیگیری وقتی که بازدید کننده بر روی آنها کلیک کنید. اگر قابلیت های مرورگر غیر فعال است، بین المللی عازم ناحیه دور دست <STRONG> کلیک </ strong> در دنبال بدون در نظر گرفتن که ارزش شما برای این گزینه است."
+
+#: panel5.php:49 ../options/panel5.php:49
+msgid "Defines how many seconds a visit should last. Google Analytics sets its duration to 1800 seconds."
+msgstr "معین می‌کند که یک بازدید چه‌قدر باید طول بکشد. گوگل آنالیتیک اینم مقدار را ۱۸۰۰ ثانیه در نظر می‌گیرد."
+
+#: panel5.php:57 ../options/panel5.php:57
+msgid "Extends the duration of a session each time the user visits a new page, by the number of seconds set here above."
+msgstr "هر بار که کاربر یک صفحه جدید را مشاهده می‌کند طول مدت جلسه را به میزانی که این‌جا مشخص کرده‌اید گسترش می‌دهد."
+
+#: panel5.php:65 ../options/panel5.php:65
+msgid "Enables <a href=\"http://www.jsdelivr.com/\" target=\"_blank\">JSDelivr</a>'s CDN, by serving WP SlimStat's Javascript tracker from their fast and reliable network of servers."
+msgstr "را قادر می سازد <a href=\"http://www.jsdelivr.com/\" target=\"_blank\"> با JSDelivr </ A> 'CDN، با خدمت SlimStat WP جاوا اسکریپت ردگیر از شبکه سریع و قابل اعتماد خود را از سرویس دهنده."
+
+#: panel6.php:9 ../options/panel6.php:9
+msgid "Are you sure you want to remove all the information about your hits and visits?"
+msgstr "آیا مطمئن هستید که می‌خواهید تمامی اطلاعات مربوط به آمار بازدید و بازدیدکننده‌ها را حذف کنید؟"
+
+#: panel6.php:13 ../options/panel6.php:13
+msgid "Your WP SlimStat table has been successfully emptied."
+msgstr "جداول WP SlimStat با موفقیت خالی شدند"
+
+#: panel6.php:18 ../options/panel6.php:18
+msgid "Your Geolocation data has been successfully updated."
+msgstr "داده‌های مکان‌یابی با موفقیت به‌روزرسانی شدند"
+
+#: panel6.php:21 ../options/panel6.php:21
+msgid "ERROR: Your Geolocation source file is not readable."
+msgstr "خطا: فایل مکان‌یابی قابل خواندن نیست."
+
+#: panel6.php:31 ../options/panel6.php:31
+msgid "Your WP SlimStat table has been successfully reset."
+msgstr "جداول SlimStat به خوبی بازنشانی شدند."
+
+#: panel6.php:33 ../options/panel6.php:33
+msgid "ERROR: Your Slimstat table could not be initialized."
+msgstr "خطا: جداول SlimStat نمی‌توانند آماده‌سازی شوند."
+
+#: panel6.php:43 ../options/panel6.php:43
+msgid "Your WP SlimStat table has been successfully optimized."
+msgstr "جداول WP SlimStat با موفقیت بهینه‌سازی شد."
+
+#: panel6.php:56 ../options/panel6.php:56
+msgid "Your WP SlimStat tables have been successfully converted to InnoDB."
+msgstr "جداول WP SlimStat با موفقیت به InnoDB تبدیل شد."
+
+#: panel6.php:65 ../options/panel6.php:65
+msgid "Your WP SlimStat indexes have been successfully created."
+msgstr "اندیس‌های WP SlimStat با موفقیت ساخته شد."
+
+#: panel6.php:73 ../options/panel6.php:73
+msgid "Your WP SlimStat indexes have been successfully removed."
+msgstr "اندیس‌های WP SlimStat با موفقیت حذف شد."
+
+#: panel6.php:113 ../options/panel6.php:113
+msgid "Your WP SlimStat table has been successfully cleaned. Rows affected:"
+msgstr "جداول WP SlimStat با موفقیت پاک‌سازی شد. ردیف‌های تحت تاثیر:"
+
+#: panel6.php:129 ../options/panel6.php:129
+msgid "Database Information"
+msgstr "اطلاعات پایگاه داده"
+
+#: panel6.php:130 ../options/panel6.php:130
+msgid "Engine"
+msgstr "موتور"
+
+#: panel6.php:132 ../options/panel6.php:132
+msgid ", it may take some time and exceed PHP's maximum execution time"
+msgstr "، ممکن است مقداری طول بکشد و از بیشینه مقدار زمان اجرای پی‌اچ‌پی بیش‌تر باشد."
+
+#: panel6.php:133 ../options/panel6.php:133
+msgid "switch to InnoDB"
+msgstr "تغییر حالت به InnoDB"
+
+#: panel6.php:153 ../options/panel6.php:153
+msgid "Size"
+msgstr "اندازه"
+
+#: panel6.php:153 ../options/panel6.php:153
+msgid "Records"
+msgstr "رکوردها"
+
+#: panel6.php:153 ../options/panel6.php:153
+msgid "Average Record Length"
+msgstr "میانگین طول رکورد"
+
+#: panel6.php:153 ../options/panel6.php:153
+msgid "Created on"
+msgstr "ساخته شده در"
+
+#: panel6.php:155 ../options/panel6.php:155
+msgid "Approximate Overhead"
+msgstr "سربار تقریبی"
+
+#: panel6.php:159 ../options/panel6.php:159
+msgid "Optimize tables"
+msgstr "بهینه کردن جداول"
+
+#: panel6.php:163 ../options/panel6.php:163
+msgid "Purge Data"
+msgstr "داده‌های خام"
+
+#: panel6.php:166 ../options/panel6.php:166
+msgid "Delete rows where"
+msgstr "حذف ردیف‌ها وقتی"
+
+#: panel6.php:168 ../options/panel6.php:168
+msgid "Country Code"
+msgstr "کد کشور"
+
+#: panel6.php:169 ../options/panel6.php:169
+msgid "IP Address"
+msgstr "نشانی آی‌پی"
+
+#: panel6.php:170 ../options/panel6.php:170
+msgid "Language Code"
+msgstr "کد زبان"
+
+#: panel6.php:171 ../options/panel6.php:171
+msgid "Permalink"
+msgstr "پیوند یکتا"
+
+#: panel6.php:172 ../options/panel6.php:172
+msgid "Search Terms"
+msgstr "عبارت جستجو"
+
+#: panel6.php:175 ../options/panel6.php:175
+msgid "Is equal to"
+msgstr "مساوی‌ست با"
+
+#: panel6.php:176 ../options/panel6.php:176
+msgid "Contains"
+msgstr "شامل"
+
+#: panel6.php:177 ../options/panel6.php:177
+msgid "Does not contain"
+msgstr "ناشامل"
+
+#: panel6.php:178 ../options/panel6.php:178
+msgid "Starts with"
+msgstr "شروع می‌شود با"
+
+#: panel6.php:179 ../options/panel6.php:179
+msgid "Ends with"
+msgstr "خاتمه می‌یابد با"
+
+#: panel6.php:180 ../options/panel6.php:180
+msgid "Does not start with"
+msgstr "شروع نمی‌شود با"
+
+#: panel6.php:181 ../options/panel6.php:181
+msgid "Does not end with"
+msgstr "خاتمه نمی‌یابد با"
+
+#: panel6.php:185 ../options/panel6.php:185
+msgid "DELETE"
+msgstr "حذف"
+
+#: panel6.php:186 ../options/panel6.php:186
+msgid "Are you sure you want to PERMANENTLY delete these rows from your database?"
+msgstr "آیا مطمئن هستید که می‌خواهید همه‌ی این ردیف‌ها را از پایگاه داده حذف کنید؟"
+
+#: panel6.php:193 ../options/panel6.php:193
+msgid "Activate Indexes"
+msgstr "فعال کردن اندیس‌ها"
+
+#: panel6.php:194 ../options/panel6.php:194
+msgid "Use this feature if you want to improve the overall performance of your stats. You will need about 30% more DB space, to store the extra information required."
+msgstr "با استفاده از این ویژگی، می‌توانید عملکرد کلی افزونه را بهبود ببخشید. شما برای این کار حدود ۳۰٪ حجم بیش‌تری از پایگاه داده برای ثبت اطلاعات اضافی، اشغال می‌کنید."
+
+#: panel6.php:198 ../options/panel6.php:198
+msgid "Remove Indexes"
+msgstr "حذف اندیس‌ها"
+
+#: panel6.php:199 ../options/panel6.php:199
+msgid "Use this feature if you want to save some DB space, while slightly degrading WP SlimStat overall performances."
+msgstr "با استفاده از این ویژگی، می‌توانید بخشی از فضای پایگاه داده را صرفه‌جویی کنید، اما کمی از کارایی زمان اجرای افزونه کاسته خواهد شد."
+
+#: panel6.php:203 ../options/panel6.php:203
+msgid "Factory Reset"
+msgstr "بازنشانی به تنظیمات اولیه"
+
+#: panel6.php:204 ../options/panel6.php:204
+msgid "Select this option if you want to empty your WP SlimStat database (does not reset your settings)."
+msgstr "این گزینه را انتخاب کنید اگر شما می خواهید برای خالی کردن پایگاه داده WP خود را SlimStat (تنظیمات خود را تنظیم مجدد کنید)."
+
+#: panel6.php:208 ../options/panel6.php:208
+msgid "Update Geolocation DB"
+msgstr "به‌روزآوری پایگاه داده مکان‌یابی"
+
+#: panel6.php:209 ../options/panel6.php:209
+msgid "Select this option if you want to load the new geolocation data into your database."
+msgstr "اگر می‌خواهید داده‌ی مکان‌یابی جدیدی در پایگاه داده بارگزاری کنید، این گزینه را انتخاب کنید"
+
+#: panel6.php:215 ../options/panel6.php:215
+msgid "RESET STATS"
+msgstr "بازنشانی آمارها"
+
+#: panel6.php:216 ../options/panel6.php:216
+msgid "It looks like you need to update the structure of one of the tables used by this plugin. Please click the button here above to reset your table (all the data will be lost, sorry), then deactivate/reactivate WP SlimStat to complete the installation process."
+msgstr "به نظر می رسد که شما نیاز دارید برای به روز رسانی ساختار یکی از جداول مورد استفاده توسط این افزونه است. لطفا با کلیک بر روی دکمه در اینجا جدول خود را برای تنظیم مجدد (تمام داده ها از دست خواهد رفت، با عرض پوزش)، و سپس دوباره فعال / غیر فعال کردن SlimStat WP برای تکمیل فرآیند نصب."
+
+#: panel7.php:24 ../options/panel7.php:24
+msgid "How valuable is monitoring your visitors for your site? WP SlimStat is and will always be free, but consider supporting the author if this plugin made your web site better, especially if you are making money out of it. Any donation received will be reinvested in the development of WP SlimStat, and to buy some food for my hungry family."
+msgstr "تا چه حد ارزشمند است نظارت بر بازدید کنندگان خود را برای سایت شما؟ SlimStat WP است و همیشه نیز خواهد بود، اما در نظر نویسنده اگر این افزونه وب سایت شما بهتر است، به خصوص اگر شما در حال ساخت پول از آن. هر گونه کمک مالی دریافتی در توسعه SlimStat WP دوباره سرمایه گذاری خواهد شد و برای خرید برخی از مواد غذایی برای خانواده گرسنه ام."
+
+#: panel7.php:30 ../options/panel7.php:30
+msgid "Need help?"
+msgstr "کمک؟"
+
+#: panel7.php:31 ../options/panel7.php:31
+msgid "Please visit our official <a href='http://wordpress.org/support/plugin/wp-slimstat' target='_blank'>support forum</a> to see if your question has already been answered. If not, feel free to post your request there, I'll do my best to address your concerns as soon as possible."
+msgstr "لطفا از پایگاه رسمی ما به نشانی <a href='http://wordpress.org/support/plugin/wp-slimstat' target='_blank'>تالار گفتگو</a>  بازدید کنید تا ببینید آیا سوال شما پاسخ داده شده است؟ اگر نه، با احساس آزادی کامل سوال خود را آن‌جا بپرسید."
+
+#: panel7.php:34 ../options/panel7.php:34
+msgid "Recent messages from the support forum"
+msgstr "پیام‌های اخیر از تالار گفتگو."
+
+#: panel7.php:42 ../options/panel7.php:42
+msgid "Don't want or cannot donate?"
+msgstr "نمی‌خواهید، یا نمی‌توانید اعانه دهید؟"
+
+#: panel7.php:43 ../options/panel7.php:43
+msgid "If you cannot donate money, please consider blogging about WP SlimStat, your visitors may not know you're using it! You can also contribute by donating some of your spare time: send me bug reports, localization files and ideas on how to improve WP SlimStat."
+msgstr "اگر شما می توانید پول را اهدا نمی کند، لطفا نظر وبلاگ نویسی در مورد SlimStat WP، بازدید کنندگان خود را نمی دانند ممکن است شما با استفاده از آن! شما همچنین می توانید با اهدای برخی از اوقات فراغت خود را کمک: به من گزارش اشکال، فایل ها و محلی سازی ایده ها در مورد چگونگی بهبود SlimStat WP ارسال کنید."
+
+#: panel7.php:45 ../options/panel7.php:45
+msgid "Show your appreciation"
+msgstr "قدردانی خود را نشان دهید"
+
+#: panel7.php:46 ../options/panel7.php:46
+msgid "Tell other people if WP SlimStat works for you and how good it is. <a href=\"http://wordpress.org/extend/plugins/wp-slimstat/\">Rate it</a> on its Plugin Directory page."
+msgstr "اگر SlimStat WP خوب کار می کند، به افراد دیگر بگویید.\n"
+"در صفحه‌ی خود افزونه <a href=\"http://wordpress.org/extend/plugins/wp-slimstat/\">امتیاز بدهید</a>. "
+

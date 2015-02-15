@@ -1,4 +1,4 @@
-# Loco Gettext template
+# Loco Gettext template 
 #, fuzzy
 msgid ""
 msgstr ""
